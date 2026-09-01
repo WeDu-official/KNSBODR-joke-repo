@@ -1,4 +1,7 @@
-# KNSBODR and other bs(joke repo)
-Kinda not sane but okayish dice roller: is a cli dice roller with simple interesting notation. made as a joke btw
+# OSL
 
-and also anything that is just some joke slop or sheer boredom is here
+
+THIS IS THE LAST VERSION OF OSL AND FROM TODAY TO AN UNKNOWN DATE IT WOULD BE ARCHIVED
+
+
+this is OSL(operating system language) simple non tokened programming language
