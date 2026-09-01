@@ -1,5 +1,5 @@
 """weduofficial"""
-"""Coin Flip: the only tool that i personally used for sake of deciding if i should kiss my homie or not... jk"""
+"""Coi Flip: the only tool that i personally used for sake of deciding if i should kiss my homie or not... jk"""
 
 import argparse
 import random
